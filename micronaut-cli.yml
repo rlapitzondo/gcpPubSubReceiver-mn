@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.lacaja.servicios
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, gcp-pubsub, http-client, jackson-databind, java, java-application, logback, maven, netty-server, readme, shade, spock, yaml]
